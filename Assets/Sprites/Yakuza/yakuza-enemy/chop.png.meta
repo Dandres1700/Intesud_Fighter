@@ -1,0 +1,1690 @@
+fileFormatVersion: 2
+guid: d09c46384c62d5c4d88edc7b9d4b0fb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 204434607578480675
+    second: chop_0
+  - first:
+      213: -780881626842128863
+    second: chop_1
+  - first:
+      213: 4844739844676797736
+    second: chop_2
+  - first:
+      213: 4036698422635726304
+    second: chop_3
+  - first:
+      213: -4146421723787497523
+    second: chop_4
+  - first:
+      213: 1598344102198302843
+    second: chop_5
+  - first:
+      213: 8988408460835133697
+    second: chop_6
+  - first:
+      213: -2670930424340803748
+    second: chop_7
+  - first:
+      213: -3553387969663613322
+    second: chop_8
+  - first:
+      213: 3011399448230742311
+    second: chop_9
+  - first:
+      213: 2533445877768048609
+    second: chop_10
+  - first:
+      213: -8540338115662539502
+    second: chop_11
+  - first:
+      213: 9178353996866039758
+    second: chop_12
+  - first:
+      213: 3095521772071778474
+    second: chop_13
+  - first:
+      213: 8399467190966591346
+    second: chop_14
+  - first:
+      213: -8446782265431773397
+    second: chop_15
+  - first:
+      213: -2087835028789785627
+    second: chop_16
+  - first:
+      213: 9169872772399783136
+    second: chop_17
+  - first:
+      213: -2996659311112694338
+    second: chop_18
+  - first:
+      213: 3673305452576832921
+    second: chop_19
+  - first:
+      213: 2387775335944509866
+    second: chop_20
+  - first:
+      213: 5919405262019783372
+    second: chop_21
+  - first:
+      213: 6005037313431707121
+    second: chop_22
+  - first:
+      213: -7214844951536869691
+    second: chop_23
+  - first:
+      213: -2372742274594100790
+    second: chop_24
+  - first:
+      213: -8149539067759071149
+    second: chop_25
+  - first:
+      213: -2674325865017020993
+    second: chop_26
+  - first:
+      213: -3901691451109751076
+    second: chop_27
+  - first:
+      213: -643854466169567750
+    second: chop_28
+  - first:
+      213: 3903794481114852911
+    second: chop_29
+  - first:
+      213: 1682567140981825135
+    second: chop_30
+  - first:
+      213: 89897170494749371
+    second: chop_31
+  - first:
+      213: -3914728269512303439
+    second: chop_32
+  - first:
+      213: -8060656439867718052
+    second: chop_33
+  - first:
+      213: -6643881302584303489
+    second: chop_34
+  - first:
+      213: 3247438607104697434
+    second: chop_35
+  - first:
+      213: 4280338439675983861
+    second: chop_36
+  - first:
+      213: -2198523283626399507
+    second: chop_37
+  - first:
+      213: 4927992663551161583
+    second: chop_38
+  - first:
+      213: -4257361755145443605
+    second: chop_39
+  - first:
+      213: 5423314369431410940
+    second: chop_40
+  - first:
+      213: -8667401375165586860
+    second: chop_41
+  - first:
+      213: -1571781598829846588
+    second: chop_42
+  - first:
+      213: -8887167403936851168
+    second: chop_43
+  - first:
+      213: 2622498775464662040
+    second: chop_44
+  - first:
+      213: 4278169757938123278
+    second: chop_45
+  - first:
+      213: 8109097759148071186
+    second: chop_46
+  - first:
+      213: -9218106866667744562
+    second: chop_47
+  - first:
+      213: 7186449307510681590
+    second: chop_48
+  - first:
+      213: 3145245483991504889
+    second: chop_49
+  - first:
+      213: 8917395522510490123
+    second: chop_50
+  - first:
+      213: 4264435245238021559
+    second: chop_51
+  - first:
+      213: -7310253618741460285
+    second: chop_52
+  - first:
+      213: 7562702537882021377
+    second: chop_53
+  - first:
+      213: -7118946963672630099
+    second: chop_54
+  - first:
+      213: -1188006642178891306
+    second: chop_55
+  - first:
+      213: 9190917456518510856
+    second: chop_56
+  - first:
+      213: 7743981238309682072
+    second: chop_57
+  - first:
+      213: 7508479845322792465
+    second: chop_58
+  - first:
+      213: -8539296217110076175
+    second: chop_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chop_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 320
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3200384413c46d200800000000000000
+      internalID: 204434607578480675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e12743c40c925f0800000000000000
+      internalID: -780881626842128863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 320
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825442f5839fb3340800000000000000
+      internalID: 4844739844676797736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 319
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5059af3db350830800000000000000
+      internalID: 4036698422635726304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 319
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfeea03963f476c0800000000000000
+      internalID: -4146421723787497523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 319
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78de581e757e2610800000000000000
+      internalID: 1598344102198302843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 319
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109913c5fdd3dbc70800000000000000
+      internalID: 8988408460835133697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_7
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 320
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f02652ee2feead0800000000000000
+      internalID: -2670930424340803748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 320
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676cd0fd774dfaec0800000000000000
+      internalID: -3553387969663613322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_9
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 320
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c994d7d3aac920800000000000000
+      internalID: 3011399448230742311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_10
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 321
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efca026a9b982320800000000000000
+      internalID: 2533445877768048609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_11
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 321
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21594328bbf9a7980800000000000000
+      internalID: -8540338115662539502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_12
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 321
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfacf5c450106f70800000000000000
+      internalID: 9178353996866039758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_13
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 320
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa873d2a6a085fa20800000000000000
+      internalID: 3095521772071778474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_14
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 320
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f9c1c68e6e09470800000000000000
+      internalID: 8399467190966591346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 219
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2faed5584007ca80800000000000000
+      internalID: -8446782265431773397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 219
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb0e576a158603e0800000000000000
+      internalID: -2087835028789785627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 218
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec5a62d3bee14f70800000000000000
+      internalID: 9169872772399783136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 218
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5d248cb3ab966d0800000000000000
+      internalID: -2996659311112694338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 218
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99df85cd8d33af230800000000000000
+      internalID: 3673305452576832921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 218
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9596e5405132120800000000000000
+      internalID: 2387775335944509866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 218
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca644439b3f52250800000000000000
+      internalID: 5919405262019783372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_22
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 218
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd101ade9d265350800000000000000
+      internalID: 6005037313431707121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_23
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 218
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cedf121eb8bfdb90800000000000000
+      internalID: -7214844951536869691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_24
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 218
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9244bf873521fd0800000000000000
+      internalID: -2372742274594100790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_25
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 219
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3507d0f556507ee80800000000000000
+      internalID: -8149539067759071149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_26
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 220
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd65028bc2e2ead0800000000000000
+      internalID: -2674325865017020993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_27
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 220
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6cc691c486ad9c0800000000000000
+      internalID: -3901691451109751076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_28
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 220
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50ae836c19017f0800000000000000
+      internalID: -643854466169567750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_29
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 220
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e2bfab5601d2630800000000000000
+      internalID: 3903794481114852911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 117
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e57fc66eda95710800000000000000
+      internalID: 1682567140981825135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 117
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaf6a110016f3100800000000000000
+      internalID: 89897170494749371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 117
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc1a8741671ca9c0800000000000000
+      internalID: -3914728269512303439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 117
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c564835dcabc22090800000000000000
+      internalID: -8060656439867718052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 117
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f706a95f7213cc3a0800000000000000
+      internalID: -6643881302584303489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_35
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 117
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a546d5e1538311d20800000000000000
+      internalID: 3247438607104697434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_36
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 117
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f73657f121d66b30800000000000000
+      internalID: 4280338439675983861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_37
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 117
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8e509c8b64d71e0800000000000000
+      internalID: -2198523283626399507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_38
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 117
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b2b6c73fb36440800000000000000
+      internalID: 4927992663551161583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_39
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 117
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6e8384a00dae4c0800000000000000
+      internalID: -4257361755145443605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_40
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 117
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf81b3f5fab734b40800000000000000
+      internalID: 5423314369431410940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_41
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 117
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e5830f5437b780800000000000000
+      internalID: -8667401375165586860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_42
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 117
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf5049a6f8ef2ae0800000000000000
+      internalID: -1571781598829846588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_43
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 114
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bd9e415507aa480800000000000000
+      internalID: -8887167403936851168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_44
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 117
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814d77fddbcf46420800000000000000
+      internalID: 2622498775464662040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0288b66abc1f5b30800000000000000
+      internalID: 4278169757938123278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 20
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219dfe6b27d498070800000000000000
+      internalID: 8109097759148071186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 20
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec21ea6f4a4b21080800000000000000
+      internalID: -9218106866667744562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 20
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa68ad1956bb360800000000000000
+      internalID: 7186449307510681590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 20
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f717bc7a1826ab20800000000000000
+      internalID: 3145245483991504889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_50
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 20
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a85e83bf3f0cb70800000000000000
+      internalID: 8917395522510490123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_51
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 20
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd6118f2415e2b30800000000000000
+      internalID: 4264435245238021559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_52
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 20
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2c6eca013cc8a90800000000000000
+      internalID: -7310253618741460285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 20
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e2768a3ed14f860800000000000000
+      internalID: 7562702537882021377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_54
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 20
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac727f447b643d90800000000000000
+      internalID: -7118946963672630099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_55
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 20
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d16f16d04a538fe0800000000000000
+      internalID: -1188006642178891306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_56
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 20
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809f8bb2bb2bc8f70800000000000000
+      internalID: 9190917456518510856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_57
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 20
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bfcb828e5287b60800000000000000
+      internalID: 7743981238309682072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_58
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 19
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e15af33aa733860800000000000000
+      internalID: 7508479845322792465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_59
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 19
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4215b65535e7980800000000000000
+      internalID: -8539296217110076175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chop_0: 204434607578480675
+      chop_1: -780881626842128863
+      chop_10: 2533445877768048609
+      chop_11: -8540338115662539502
+      chop_12: 9178353996866039758
+      chop_13: 3095521772071778474
+      chop_14: 8399467190966591346
+      chop_15: -8446782265431773397
+      chop_16: -2087835028789785627
+      chop_17: 9169872772399783136
+      chop_18: -2996659311112694338
+      chop_19: 3673305452576832921
+      chop_2: 4844739844676797736
+      chop_20: 2387775335944509866
+      chop_21: 5919405262019783372
+      chop_22: 6005037313431707121
+      chop_23: -7214844951536869691
+      chop_24: -2372742274594100790
+      chop_25: -8149539067759071149
+      chop_26: -2674325865017020993
+      chop_27: -3901691451109751076
+      chop_28: -643854466169567750
+      chop_29: 3903794481114852911
+      chop_3: 4036698422635726304
+      chop_30: 1682567140981825135
+      chop_31: 89897170494749371
+      chop_32: -3914728269512303439
+      chop_33: -8060656439867718052
+      chop_34: -6643881302584303489
+      chop_35: 3247438607104697434
+      chop_36: 4280338439675983861
+      chop_37: -2198523283626399507
+      chop_38: 4927992663551161583
+      chop_39: -4257361755145443605
+      chop_4: -4146421723787497523
+      chop_40: 5423314369431410940
+      chop_41: -8667401375165586860
+      chop_42: -1571781598829846588
+      chop_43: -8887167403936851168
+      chop_44: 2622498775464662040
+      chop_45: 4278169757938123278
+      chop_46: 8109097759148071186
+      chop_47: -9218106866667744562
+      chop_48: 7186449307510681590
+      chop_49: 3145245483991504889
+      chop_5: 1598344102198302843
+      chop_50: 8917395522510490123
+      chop_51: 4264435245238021559
+      chop_52: -7310253618741460285
+      chop_53: 7562702537882021377
+      chop_54: -7118946963672630099
+      chop_55: -1188006642178891306
+      chop_56: 9190917456518510856
+      chop_57: 7743981238309682072
+      chop_58: 7508479845322792465
+      chop_59: -8539296217110076175
+      chop_6: 8988408460835133697
+      chop_7: -2670930424340803748
+      chop_8: -3553387969663613322
+      chop_9: 3011399448230742311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

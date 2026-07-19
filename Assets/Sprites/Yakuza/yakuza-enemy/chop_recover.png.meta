@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 86d0ac823cbb2ee448274ae43ac17a40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7461578274128548957
+    second: chop_recover_0
+  - first:
+      213: 2811834533688845096
+    second: chop_recover_1
+  - first:
+      213: 7159898265386564357
+    second: chop_recover_2
+  - first:
+      213: 659304799963814815
+    second: chop_recover_3
+  - first:
+      213: -759097700762115674
+    second: chop_recover_4
+  - first:
+      213: 8012042823445838921
+    second: chop_recover_5
+  - first:
+      213: 8614012142451429114
+    second: chop_recover_6
+  - first:
+      213: 3009878611373214107
+    second: chop_recover_7
+  - first:
+      213: 1655838249778989930
+    second: chop_recover_8
+  - first:
+      213: -3018538201300144849
+    second: chop_recover_9
+  - first:
+      213: -2609816570473671776
+    second: chop_recover_10
+  - first:
+      213: -4915702294959644167
+    second: chop_recover_11
+  - first:
+      213: 2654756385207827769
+    second: chop_recover_12
+  - first:
+      213: -5571100175849630089
+    second: chop_recover_13
+  - first:
+      213: 7908789121329389135
+    second: chop_recover_14
+  - first:
+      213: 257824085992346185
+    second: chop_recover_15
+  - first:
+      213: -5189798753340989299
+    second: chop_recover_16
+  - first:
+      213: 522853137293556962
+    second: chop_recover_17
+  - first:
+      213: -357083403674608113
+    second: chop_recover_18
+  - first:
+      213: -4382035252276338708
+    second: chop_recover_19
+  - first:
+      213: 1389762093490736708
+    second: chop_recover_20
+  - first:
+      213: -6553237308851074301
+    second: chop_recover_21
+  - first:
+      213: -5051411055166554568
+    second: chop_recover_22
+  - first:
+      213: 3195562409917163888
+    second: chop_recover_23
+  - first:
+      213: -2755204859543275965
+    second: chop_recover_24
+  - first:
+      213: 6475286336109637811
+    second: chop_recover_25
+  - first:
+      213: -874768380952536210
+    second: chop_recover_26
+  - first:
+      213: 626506511354331391
+    second: chop_recover_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chop_recover_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 320
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54543d38e9dc8760800000000000000
+      internalID: 7461578274128548957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 320
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82323b35c94a50720800000000000000
+      internalID: 2811834533688845096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 320
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b3d40a9811d5360800000000000000
+      internalID: 7159898265386564357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 320
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b9d80f832562900800000000000000
+      internalID: 659304799963814815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 320
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1224cb9a42775f0800000000000000
+      internalID: -759097700762115674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 320
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cf4b09f7e703f60800000000000000
+      internalID: 8012042823445838921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 320
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe08b1976e1b8770800000000000000
+      internalID: 8614012142451429114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 220
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9942f766ac35c920800000000000000
+      internalID: 3009878611373214107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 220
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bc49b7d18baf610800000000000000
+      internalID: 1655838249778989930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 220
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dee82bf7ffb16d0800000000000000
+      internalID: -3018538201300144849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 219
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a31df318a118cbd0800000000000000
+      internalID: -2609816570473671776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 219
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1ab57aecae7cbb0800000000000000
+      internalID: -4915702294959644167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 219
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d3389edd697d420800000000000000
+      internalID: 2654756385207827769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 219
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776dd5238e97fa2b0800000000000000
+      internalID: -5571100175849630089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 117
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4edf44adc9a1cd60800000000000000
+      internalID: 7908789121329389135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9421d14e3a9f39300800000000000000
+      internalID: 257824085992346185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 117
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d806853d7812af7b0800000000000000
+      internalID: -5189798753340989299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 117
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecb41e782c814700800000000000000
+      internalID: 522853137293556962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 117
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e99c849826b0bf0800000000000000
+      internalID: -357083403674608113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 117
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef54d2b722ef23c0800000000000000
+      internalID: -4382035252276338708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 117
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e81d0c24d694310800000000000000
+      internalID: 1389762093490736708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 19
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b481d53693e05a0800000000000000
+      internalID: -6553237308851074301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 19
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef05aa868c5e9b0800000000000000
+      internalID: -5051411055166554568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 19
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07924bcb41be85c20800000000000000
+      internalID: 3195562409917163888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 19
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3463e7727cb83c9d0800000000000000
+      internalID: -2755204859543275965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 19
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b071ca7d96dcd950800000000000000
+      internalID: 6475286336109637811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_26
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 19
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b9490dac23cd3f0800000000000000
+      internalID: -874768380952536210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chop_recover_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 19
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff08eba4a5cc1b800800000000000000
+      internalID: 626506511354331391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chop_recover_0: 7461578274128548957
+      chop_recover_1: 2811834533688845096
+      chop_recover_10: -2609816570473671776
+      chop_recover_11: -4915702294959644167
+      chop_recover_12: 2654756385207827769
+      chop_recover_13: -5571100175849630089
+      chop_recover_14: 7908789121329389135
+      chop_recover_15: 257824085992346185
+      chop_recover_16: -5189798753340989299
+      chop_recover_17: 522853137293556962
+      chop_recover_18: -357083403674608113
+      chop_recover_19: -4382035252276338708
+      chop_recover_2: 7159898265386564357
+      chop_recover_20: 1389762093490736708
+      chop_recover_21: -6553237308851074301
+      chop_recover_22: -5051411055166554568
+      chop_recover_23: 3195562409917163888
+      chop_recover_24: -2755204859543275965
+      chop_recover_25: 6475286336109637811
+      chop_recover_26: -874768380952536210
+      chop_recover_27: 626506511354331391
+      chop_recover_3: 659304799963814815
+      chop_recover_4: -759097700762115674
+      chop_recover_5: 8012042823445838921
+      chop_recover_6: 8614012142451429114
+      chop_recover_7: 3009878611373214107
+      chop_recover_8: 1655838249778989930
+      chop_recover_9: -3018538201300144849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
